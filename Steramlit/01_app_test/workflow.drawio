@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="XVrp7IMRHQEfII0BfYin" name="Page-1">
+        <mxGraphModel dx="848" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="App to learn the functions of Streamlit" style="whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="40" width="240" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;div&gt;Create conda/mamba environment&lt;/div&gt;&lt;div&gt;streamlit_env&lt;/div&gt;&lt;div&gt;&lt;div&gt;conda create -n streamlit_env&lt;/div&gt;&lt;div&gt;conda activate streamlit_env&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="160" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="5">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="110" y="370" as="sourcePoint"/>
+                        <mxPoint x="190" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="&lt;div&gt;&lt;b&gt;Installation&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;conda install python -y&lt;/div&gt;&lt;div&gt;pip install streamlit&lt;/div&gt;&lt;div&gt;pip install pandas numpy matplotlib seaborn plotly&lt;/div&gt;&lt;div&gt;scipy scikit-learn&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+                    <mxGeometry x="14.75" y="300" width="350.5" height="110" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
