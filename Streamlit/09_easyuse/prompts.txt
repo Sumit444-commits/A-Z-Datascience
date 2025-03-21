@@ -1,0 +1,27 @@
+Generate an image prompt for each sentence in the story. When a full stop (period/.) occurs, indicating the end of a sentence, generate an image prompt specifically for that sentence. Ensure the total number of prompts exactly matches the number of sentences in the story. Each prompt should vividly describe the specific moment of its corresponding sentence, maintaining a natural progression of events. The prompts should focus on rich details, character expressions, atmosphere, and relevant elements to create visually compelling and cohesive imagery that aligns with the story. Write each prompt as a separate paragraph, without any labels or headings. The prompt should be detailed enough for an AI image generator to create a relevant and accurate image.
+
+
+
+
+Generate an image prompt for each individual sentence in the provided story. When a sentence ends with a full stop (period), generate a new, distinct image prompt for that specific sentence only. This means that if the story contains ten sentences ending in a full stop, you will generate ten image prompts. Each image prompt should vividly and realistically (not anime style) depict the specific moment of its corresponding sentence. Focus on rich details, character expressions, atmosphere, and relevant elements to create visually compelling and cohesive imagery that aligns with the narrative. Ensure continuity between the images, depicting the same characters (if present) and maintaining a consistent visual style to create a cohesive narrative sequence. Each prompt should be a separate paragraph.
+
+
+
+Generate multiple detailed image prompts that follow the story in sequence. Each prompt should describe a specific scene, ensuring a natural progression from one to the next. Write each prompt as a separate paragraph without any labels or headings. Focus on vivid details, character expressions, atmosphere, and relevant elements to create visually compelling and cohesive imagery that aligns with the story.
+
+
+
+"""(Generate an image prompt for each individual sentence in the provided story, ensuring that the total number of prompts exactly matches the number of sentences ending with a full stop (period). When a sentence ends with a full stop, generate a new, distinct image prompt for that specific sentence only. This means that if the story contains ten sentences ending in a full stop, you will generate ten image prompts.
+Each prompt should vividly and realistically (not anime style) depict the specific moment of its corresponding sentence, maintaining a natural progression. Write each prompt as a separate paragraph without any labels or headings. Focus on rich details, character expressions, atmosphere, and relevant elements to create visually compelling and cohesive imagery that aligns with the narrative. Ensure continuity between the images, depicting the same characters (if present) and maintaining a consistent visual style to create a cohesive sequence of illustrations. The goal is to create a seamless visual storytelling experience, with each prompt capturing a specific moment in the story in high detail.
+When a character is described, ensure that their appearance remains consistent across all related prompts. Every time a prompt features a character, include details about their physical attributes, clothing, and defining features to maintain continuity. For example, if a story mentions Salis and Uncle Henry playing chess, every prompt involving Salis must describe his appearance the same way, and every mention of Uncle Henry must maintain his established look. This ensures a seamless visual storytelling experience where characters remain recognizable throughout the sequence.)"""
+
+
+
+"""(
+Generate an image prompt for each individual sentence in the provided story, ensuring that the total number of prompts exactly matches the number of sentences ending with a full stop (period). When a sentence ends with a full stop, generate a new, distinct image prompt for that specific sentence only. This means that if the story contains ten sentences ending in a full stop, you will generate ten image prompts.
+
+Each prompt should vividly and realistically (not anime style) depict the specific moment of its corresponding sentence, maintaining a natural progression. Write each prompt as a separate paragraph without any labels or headings. Focus on rich details, character expressions, atmosphere, and relevant elements to create visually compelling and cohesive imagery that aligns with the narrative.
+
+When describing a character, ensure their physical traits, expressions, and defining details remain consistent across all prompts where they appear. For example, if Silas is introduced as having a long, grey beard, deeply etched wrinkles, and tired blue eyes, every subsequent prompt featuring him must include these details to maintain continuity. Similarly, if Uncle Henry is introduced with specific features or attributes, they should be consistently described in all related prompts.
+
+Ensure continuity between the images, depicting the same characters (if present) and maintaining a consistent visual style to create a cohesive sequence of illustrations. The goal is to create a seamless visual storytelling experience, with each prompt capturing a specific moment in the story in high detail.)"""
