@@ -1,12 +1,52 @@
 1
-00:00:00,160 --> 00:00:04,264
-The clock ticked, echoing in the empty house. A single unopened letter
+00:00:00,080 --> 00:00:04,264
+The rising sun painted the baked brick walls of Mohenjo Daro
 
 2
-00:00:04,312 --> 00:00:07,672
-lay on the table inside, a confession arriving
+00:00:04,312 --> 00:00:08,312
+a warm orange. Maya, a young potter's apprentice, hurried through
 
 3
-00:00:07,736 --> 00:00:09,960
-too late. Silence swallowed the unsaid.
+00:00:08,336 --> 00:00:11,592
+the grid like streets, her bare feet padding softly on
+
+4
+00:00:11,616 --> 00:00:15,384
+the well worn stone. The air hummed with the sounds of life.
+
+5
+00:00:15,552 --> 00:00:19,544
+The rhythmic clang of metal workers, the chattering of merchants
+
+6
+00:00:19,592 --> 00:00:23,320
+in the bustling marketplace, the distant bleating of goats.
+
+7
+00:00:23,400 --> 00:00:27,384
+The great bath beckoned, its cool water promising respite
+
+8
+00:00:27,432 --> 00:00:30,774
+from the desert heat. Today, Maya hoped to impress
+
+9
+00:00:30,822 --> 00:00:34,438
+her master with her newest vessel, a clay jar painted with
+
+10
+00:00:34,494 --> 00:00:38,294
+intricate fish scales, mirroring the bounty the Indus
+
+11
+00:00:38,342 --> 00:00:41,750
+river provided for their thriving city. Life was predictable,
+
+12
+00:00:41,830 --> 00:00:45,366
+organized and secure within Mohenjo Daro's well
+
+13
+00:00:45,438 --> 00:00:46,070
+planned walls.
 
