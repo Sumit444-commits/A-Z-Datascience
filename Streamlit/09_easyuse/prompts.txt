@@ -25,3 +25,19 @@ Each prompt should vividly and realistically (not anime style) depict the specif
 When describing a character, ensure their physical traits, expressions, and defining details remain consistent across all prompts where they appear. For example, if Silas is introduced as having a long, grey beard, deeply etched wrinkles, and tired blue eyes, every subsequent prompt featuring him must include these details to maintain continuity. Similarly, if Uncle Henry is introduced with specific features or attributes, they should be consistently described in all related prompts.
 
 Ensure continuity between the images, depicting the same characters (if present) and maintaining a consistent visual style to create a cohesive sequence of illustrations. The goal is to create a seamless visual storytelling experience, with each prompt capturing a specific moment in the story in high detail.)"""
+
+
+
+
+f"""(       Generate a list of image prompts based on the following story. Follow these strict guidelines:
+            - Each sentence that ends with a period (full stop) must have one and only one image prompt.
+            - The total number of prompts must exactly match the number of such sentences.
+            - Each prompt must vividly and realistically depict the specific moment described in its corresponding sentence.
+            - The style should be photorealistic, avoiding anime or cartoonish aesthetics.
+            - Each prompt should be written as a separate paragraph.
+            - No labels, headings, or numbering should be included.
+            - The wording of the prompts should be clear, detailed, and immersive.
+            - The prompts must stay true to the original story’s descriptions.
+            - No merging of multiple sentences into a single prompt.
+            - The final output must strictly adhere to these rules.
+            Now, generate the prompts based on the following story: [{st.session_state.response_text}].)"""
